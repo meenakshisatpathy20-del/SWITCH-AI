@@ -1,0 +1,46 @@
+id,created_at,reporter,animal,condition,road,area,landmark,road_type,lane_blocked,urgency,welfare_check,teams,status,accepted_by,accepted_at,closed_by,closed_at,proof,escalated_at,notes,simulated
+SW-0001,2026-10-30 06:11,@citizen,bull,crossing repeatedly,NH-33,Namkum,,highway,yes,HIGH,no,police+municipal,closed,@traffic_police,2026-10-30 06:15,@traffic_police,2026-10-30 06:59,photo,,,yes
+SW-0002,2026-10-30 10:18,@citizen,dog,sitting in lane,Lalpur Chowk,Lalpur,,main,yes,HIGH,no,police+ngo,closed,@municipal_team,2026-10-30 10:29,@municipal_team,2026-10-30 11:14,photo,,,yes
+SW-0003,2026-10-30 17:21,@citizen,dog,limping,Lalpur Chowk,Lalpur,,main,no,CHECK,yes,ngo,closed,@ngo_team,2026-10-30 17:56,@ngo_team,2026-10-30 18:35,photo,,,yes
+SW-0004,2026-10-30 18:08,@citizen,cow,sitting in lane,Main Road,Firayalal Chowk,,main,yes,HIGH,no,police+municipal,closed,@ngo_team,2026-10-30 18:37,@ngo_team,2026-10-30 19:18,photo,,,yes
+SW-0005,2026-10-31 06:27,@citizen,bull,lying still,NH-33,Namkum,,highway,yes,HIGH,yes,police+ngo,closed,@municipal_team,2026-10-31 07:00,@municipal_team,2026-10-31 07:25,photo,,,yes
+SW-0006,2026-10-31 08:12,@citizen,cow,lying still,Kanke Road,Kanke,,main,yes,HIGH,yes,police+ngo,closed,@traffic_police,2026-10-31 08:38,@traffic_police,2026-10-31 08:49,photo,,,yes
+SW-0007,2026-10-31 08:46,@citizen,dog,sitting in lane,Kanke Road,Kanke,,main,yes,HIGH,no,police+ngo,closed,@volunteer_aman,2026-10-31 08:58,@volunteer_aman,2026-10-31 09:45,photo,,,yes
+SW-0008,2026-10-31 09:01,@citizen,dog,crossing repeatedly,Kanke Road,Kanke,,main,yes,HIGH,no,police+ngo,closed,@ngo_team,2026-10-31 09:15,@ngo_team,2026-10-31 09:56,photo,,,yes
+SW-0009,2026-10-31 09:14,@citizen,dog,standing in lane,Kanke Road,Kanke,,main,yes,HIGH,no,police+ngo,closed,@ngo_team,2026-10-31 09:29,@ngo_team,2026-10-31 09:53,photo,,,yes
+SW-0010,2026-10-31 18:27,@citizen,cow,sitting in lane,Ratu Road,Ratu,,main,yes,HIGH,no,police+municipal,closed,@traffic_police,2026-10-31 18:50,@traffic_police,2026-10-31 19:09,photo,,,yes
+SW-0011,2026-10-31 19:03,@citizen,cow,standing in lane,Harmu Road,Harmu,,main,yes,HIGH,no,police+municipal,closed,@traffic_police,2026-10-31 19:20,@traffic_police,2026-10-31 19:37,photo,,,yes
+SW-0012,2026-10-31 19:47,@citizen,bull,lying still,Ratu Road,Ratu,,main,yes,HIGH,yes,police+ngo,closed,@volunteer_riya,2026-10-31 20:01,@volunteer_riya,2026-10-31 20:24,photo,,,yes
+SW-0013,2026-11-01 15:08,@citizen,dog,lying still,Bariatu Road,Bariatu,,minor,yes,CHECK,yes,ngo,closed,@ngo_team,2026-11-01 15:37,@ngo_team,2026-11-01 16:12,photo,,,yes
+SW-0014,2026-11-01 18:23,@citizen,cow,limping,Ratu Road,Ratu,,main,no,CHECK,yes,ngo,closed,@municipal_team,2026-11-01 18:31,@municipal_team,2026-11-01 19:20,photo,,,yes
+SW-0015,2026-11-01 18:48,@citizen,cow,lying still,Harmu Road,Harmu,,main,yes,HIGH,yes,police+ngo,closed,@volunteer_riya,2026-11-01 19:12,@volunteer_riya,2026-11-01 19:54,photo,,,yes
+SW-0016,2026-11-01 19:53,@citizen,buffalo,sitting in lane,Ring Road,Kanke,,highway,yes,HIGH,no,police+municipal,closed,@traffic_police,2026-11-01 20:23,@traffic_police,2026-11-01 21:01,photo,,,yes
+SW-0017,2026-11-01 20:58,@citizen,cow,crossing repeatedly,Ring Road,Kanke,,highway,yes,HIGH,no,police+municipal,closed,@traffic_police,2026-11-01 21:16,@traffic_police,2026-11-01 21:58,photo,,,yes
+SW-0018,2026-11-02 08:07,@citizen,dog,lying still,Kanke Road,Kanke,,main,yes,HIGH,yes,police+ngo,closed,@municipal_team,2026-11-02 08:41,@municipal_team,2026-11-02 08:56,photo,,,yes
+SW-0019,2026-11-02 08:10,@citizen,cow,sitting in lane,Ratu Road,Ratu,,main,yes,HIGH,no,police+municipal,closed,@volunteer_aman,2026-11-02 08:41,@volunteer_aman,2026-11-02 08:41,photo,,,yes
+SW-0020,2026-11-02 10:56,@citizen,dog,sitting in lane,Lalpur Chowk,Lalpur,,main,yes,HIGH,no,police+ngo,closed,@volunteer_riya,2026-11-02 11:12,@volunteer_riya,2026-11-02 11:28,photo,,,yes
+SW-0021,2026-11-02 18:30,@citizen,cow,lying still,Ratu Road,Ratu,,main,yes,HIGH,yes,police+ngo,closed,@volunteer_aman,2026-11-02 18:55,@volunteer_aman,2026-11-02 19:30,photo,,,yes
+SW-0022,2026-11-02 18:35,@citizen,dog,sitting in lane,Main Road,Firayalal Chowk,,main,yes,HIGH,no,police+ngo,closed,@volunteer_aman,2026-11-02 19:06,@volunteer_aman,2026-11-02 19:33,photo,,,yes
+SW-0023,2026-11-02 18:52,@citizen,cow,standing in lane,Ratu Road,Ratu,,main,yes,HIGH,no,police+municipal,closed,@municipal_team,2026-11-02 19:12,@municipal_team,2026-11-02 19:54,photo,,,yes
+SW-0024,2026-11-02 19:22,@citizen,buffalo,standing in lane,Ring Road,Kanke,,highway,yes,HIGH,no,police+municipal,closed,@volunteer_aman,2026-11-02 19:49,@volunteer_aman,2026-11-02 20:34,photo,,,yes
+SW-0025,2026-11-02 19:46,@citizen,cow,limping,Main Road,Firayalal Chowk,,main,no,CHECK,yes,ngo,closed,@volunteer_riya,2026-11-02 19:53,@volunteer_riya,2026-11-02 20:36,photo,,,yes
+SW-0026,2026-11-02 19:51,@citizen,cow,on roadside,Ratu Road,Ratu,,main,no,LOW,no,,logged,,,,,,,,yes
+SW-0027,2026-11-03 06:55,@citizen,cow,on roadside,NH-33,Namkum,,highway,no,LOW,no,,logged,,,,,,,,yes
+SW-0028,2026-11-03 08:44,@citizen,cow,standing in lane,Ratu Road,Ratu,,main,yes,HIGH,no,police+municipal,closed,@traffic_police,2026-11-03 09:07,@traffic_police,2026-11-03 09:45,photo,,,yes
+SW-0029,2026-11-03 09:29,@citizen,cow,on roadside,Main Road,Firayalal Chowk,,main,no,LOW,no,,logged,,,,,,,,yes
+SW-0030,2026-11-03 17:34,@citizen,dog,on roadside,Lalpur Chowk,Lalpur,,main,no,LOW,no,,logged,,,,,,,,yes
+SW-0031,2026-11-03 18:44,@citizen,dog,lying still,Harmu Road,Harmu,,main,yes,HIGH,yes,police+ngo,closed,@traffic_police,2026-11-03 19:10,@traffic_police,2026-11-03 19:10,photo,,,yes
+SW-0032,2026-11-04 06:17,@citizen,bull,limping,NH-33,Namkum,,highway,no,CHECK,yes,ngo,closed,@volunteer_riya,2026-11-04 06:51,@volunteer_riya,2026-11-04 07:16,photo,,,yes
+SW-0033,2026-11-04 06:32,@citizen,cow,lying still,NH-33,Namkum,,highway,yes,HIGH,yes,police+ngo,closed,@municipal_team,2026-11-04 06:47,@municipal_team,2026-11-04 07:06,photo,,,yes
+SW-0034,2026-11-04 13:51,@citizen,dog,on roadside,Circular Road,Lalpur,,minor,no,LOW,no,,logged,,,,,,,,yes
+SW-0035,2026-11-04 17:34,@citizen,dog,on roadside,Kanke Road,Kanke,,main,no,LOW,no,,logged,,,,,,,,yes
+SW-0036,2026-11-04 18:14,@citizen,dog,sitting in lane,Ratu Road,Ratu,,main,yes,HIGH,no,police+ngo,closed,@volunteer_riya,2026-11-04 18:39,@volunteer_riya,2026-11-04 19:28,photo,,,yes
+SW-0037,2026-11-04 18:42,@citizen,dog,sitting in lane,Circular Road,Lalpur,,minor,yes,HIGH,no,police+ngo,closed,@volunteer_riya,2026-11-04 18:54,@volunteer_riya,2026-11-04 19:10,photo,,,yes
+SW-0038,2026-11-04 20:41,@citizen,cow,standing in lane,Ring Road,Kanke,,highway,yes,HIGH,no,police+municipal,closed,@volunteer_riya,2026-11-04 20:51,@volunteer_riya,2026-11-04 21:04,photo,,,yes
+SW-0039,2026-11-05 07:00,@citizen,dog,limping,Bariatu Road,Bariatu,,minor,no,CHECK,yes,ngo,closed,@volunteer_riya,2026-11-05 07:10,@volunteer_riya,2026-11-05 07:10,photo,,,yes
+SW-0040,2026-11-05 08:10,@citizen,bull,sitting in lane,Ratu Road,Ratu,,main,yes,HIGH,no,police+municipal,closed,@volunteer_riya,2026-11-05 08:45,@volunteer_riya,2026-11-05 08:59,photo,,,yes
+SW-0041,2026-11-05 09:27,@citizen,dog,standing in lane,Main Road,Firayalal Chowk,,main,yes,HIGH,no,police+ngo,closed,@ngo_team,2026-11-05 09:46,@ngo_team,2026-11-05 10:23,photo,,,yes
+SW-0042,2026-11-05 10:40,@citizen,dog,limping,Lalpur Chowk,Lalpur,,main,no,CHECK,yes,ngo,closed,@ngo_team,2026-11-05 11:09,@ngo_team,2026-11-05 11:33,photo,,,yes
+SW-0043,2026-11-05 18:39,@citizen,dog,sitting in lane,Ratu Road,Ratu,,main,yes,HIGH,no,police+ngo,closed,@volunteer_riya,2026-11-05 18:59,@volunteer_riya,2026-11-05 18:59,photo,,,yes
+SW-0044,2026-11-05 19:19,@citizen,cow,lying still,Main Road,Firayalal Chowk,,main,yes,HIGH,yes,police+ngo,closed,@volunteer_riya,2026-11-05 19:44,@volunteer_riya,2026-11-05 20:12,photo,,,yes
+SW-0045,2026-11-05 19:57,@citizen,dog,chasing bikes,Ratu Road,Ratu,,main,no,HIGH,no,abc,closed,@municipal_team,2026-11-05 20:27,@municipal_team,2026-11-05 21:09,photo,,,yes
