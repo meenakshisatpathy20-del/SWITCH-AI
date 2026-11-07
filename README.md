@@ -73,6 +73,18 @@ The three StrayWatch agents run on Claude Code through Switch Console, with the 
 
 ![Switch Console: local server running, 3 agents (sw-triage, sw-dispatch, sw-hotspot) and the StrayWatch Telegram connection](docs/screenshots/switch-console-home.png)
 
+**The three agents**, each running on Claude Code on this computer:
+
+![Switch Console: Your Agents page with sw-dispatch, sw-hotspot and sw-triage running](docs/screenshots/switch-console-agents.png)
+
+**The StrayWatch room**: the Telegram group bridged into Switch, with the 3 agents and a person as participants:
+
+![Switch Console: the Telegram room's configuration with 3 agents and 1 person](docs/screenshots/switch-console-room.png)
+
+**The reusable template** ([`straywatch.template.yaml`](straywatch.template.yaml)) imported into Switch:
+
+![Switch Console: the Straywatch template, which creates sw-triage, sw-dispatch and sw-hotspot](docs/screenshots/switch-console-template.png)
+
 ## Design decisions (and the loopholes they close)
 
 - **LLMs don't decide urgency; code does.** The agents extract facts from messy reports. [`tools/cases.py`](tools/cases.py) applies the rules deterministically, so the same report always gets the same urgency. The rules are covered by [tests](tests/test_cases.py).
