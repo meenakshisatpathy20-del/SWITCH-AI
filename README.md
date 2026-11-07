@@ -67,6 +67,12 @@ flowchart LR
 | **Templates** | The whole workflow is one YAML file: [`straywatch.template.yaml`](straywatch.template.yaml) |
 | **Agent protocol (custom agent)** | [`tools/watcher.py`](tools/watcher.py) registers `sw-watch` through the Switch agent protocol and posts escalations with `POST /agents/{id}/message`. Switch has no scheduler, so this agent keeps the clock |
 
+## Switch Console setup
+
+The three StrayWatch agents run on Claude Code through Switch Console, with the Telegram group connected as a Switch room.
+
+![Switch Console: local server running, 3 agents (sw-triage, sw-dispatch, sw-hotspot) and the StrayWatch Telegram connection](docs/screenshots/switch-console-home.png)
+
 ## Design decisions (and the loopholes they close)
 
 - **LLMs don't decide urgency; code does.** The agents extract facts from messy reports. [`tools/cases.py`](tools/cases.py) applies the rules deterministically, so the same report always gets the same urgency. The rules are covered by [tests](tests/test_cases.py).
