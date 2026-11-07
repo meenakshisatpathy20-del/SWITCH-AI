@@ -1,4 +1,4 @@
-![StrayWatch](docs/cover.png)
+[![Watch the StrayWatch demo](docs/cover.png)](https://youtu.be/cfPCFyH-ICA)
 
 # 🐾 StrayWatch: help the animal, clear the road
 
@@ -6,7 +6,7 @@
 
 Built for the *Flip the Switch* hackathon (WeMakeDevs × DevTools Academy × Switch AI) · Track 01: Best Business Workflow
 
-> 🎥 **Demo video:** [docs/StrayWatch-demo.mp4](docs/StrayWatch-demo.mp4) (1:45)
+> 🎥 **Demo video (1:45):** https://youtu.be/cfPCFyH-ICA (also in the repo: [docs/StrayWatch-demo.mp4](docs/StrayWatch-demo.mp4))
 >
 > 📄 **Solution ideation (theme, problem, idea):** [docs/StrayWatch-Solution-Ideation.pdf](docs/StrayWatch-Solution-Ideation.pdf)
 
