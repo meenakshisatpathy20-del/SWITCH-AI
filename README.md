@@ -1,3 +1,5 @@
+![StrayWatch](docs/cover.png)
+
 # 🐾 StrayWatch: help the animal, clear the road
 
 **Rescue dispatch for stray animals on Indian roads, run by three AI agents and the people in one Telegram group, connected by [Switch](https://github.com/sandbox-quantum/switch).**
