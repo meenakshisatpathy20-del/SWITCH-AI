@@ -7,6 +7,8 @@
 Built for the *Flip the Switch* hackathon (WeMakeDevs × DevTools Academy × Switch AI) · Track 01: Best Business Workflow
 
 > 🎥 **Demo video:** _link coming soon_
+>
+> 📄 **Solution ideation (theme, problem, idea):** [docs/StrayWatch-Solution-Ideation.pdf](docs/StrayWatch-Solution-Ideation.pdf)
 
 ---
 
