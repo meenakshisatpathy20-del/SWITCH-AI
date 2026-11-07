@@ -100,6 +100,7 @@ flowchart LR
 5. **Create a Telegram group** (e.g. "StrayWatch Ranchi"), add the bot, send one message, then in Switch Console select **Link your Telegram account**.
 6. **Set responders:** edit [`data/responders.json`](data/responders.json) with the Telegram @usernames of the people in your group.
 7. **Load the agents:** Switch Console → **Templates** → **Import template** → `straywatch.template.yaml` → pick your group as the room and this repo folder as the directory → **Create**.
+   - *If the template form shows Claude Code as "not supported here"* (a Switch Console 0.40 issue on Windows), create the three agents by hand: **Your Agents → +**, with name `sw-triage` / `sw-dispatch` / `sw-hotspot`, instructions pasted from [`agents/`](agents/), run location **This computer**, directory = this repo, provider **Claude Code**, *Who can talk to your agent* = **Anyone**. Then in the group: `!invite-agent @sw-triage` (and the other two).
 8. **In the Telegram group**, send:
    ```text
    !assign-agent @sw-triage

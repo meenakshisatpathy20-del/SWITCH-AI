@@ -1,8 +1,8 @@
 {
   "_comment": "Who gets tagged for each team. Replace the telegram handles with the real @usernames of the people in your Telegram group.",
-  "police": {"name": "Traffic Police", "telegram": "@REPLACE_police_handle"},
-  "municipal": {"name": "Municipal Cattle Team", "telegram": "@REPLACE_municipal_handle"},
-  "ngo": {"name": "Animal Rescue NGO", "telegram": "@REPLACE_ngo_handle"},
-  "abc": {"name": "ABC (sterilisation & vaccination) Team", "telegram": "@REPLACE_abc_handle"},
-  "escalation": {"name": "Duty Coordinator", "telegram": "@REPLACE_coordinator_handle"}
+  "police": {"name": "Traffic Police", "telegram": "@Amisha_25m"},
+  "municipal": {"name": "Municipal Cattle Team", "telegram": "@Amisha_25m"},
+  "ngo": {"name": "Animal Rescue NGO", "telegram": "@Amisha_25m"},
+  "abc": {"name": "ABC (sterilisation & vaccination) Team", "telegram": "@Amisha_25m"},
+  "escalation": {"name": "Duty Coordinator", "telegram": "@Amisha_25m"}
 }
